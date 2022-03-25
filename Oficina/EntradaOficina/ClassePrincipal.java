@@ -87,24 +87,6 @@ public class ClassePrincipal {
 	
 		
 		
-		/*String marcaOleo = JOptionPane.showInputDialog("Item " +i+ " - Informe a marca do óleo a ser colocado no veículo:");
-		String visc = JOptionPane.showInputDialog("Item " +i+  " - Informe sua viscuosidade:");
-		String preco = JOptionPane.showInputDialog("Item " +i+ " - Informe o preço do litro do óleo:");
-		String descSn = JOptionPane.showInputDialog("Item " +i+ " - Aplica desconto? S/N:");
-		String desc = JOptionPane.showInputDialog("Item "+i+" - Informe o percentual de desconto:");
-		String quant = JOptionPane.showInputDialog("Item " +i+ " - Informe a quantidade em litros inserida de óleo:");
 		
-		String revOleo = JOptionPane.showInputDialog("Deseja revisar os dados referente ao óleo de motor? S/N:");
-		String modeloFiltro = JOptionPane.showInputDialog("Item " +i+ " - Informe a marca do óleo a ser colocado no veículo:");
-		String marcaFiltro = JOptionPane.showInputDialog("Item " +i+ " - Informe sua viscuosidade:");
-		String precoFiltro = JOptionPane.showInputDialog("Item " +i+ " -Informe o preço do litro do óleo:");
-		String descFSn = JOptionPane.showInputDialog("Item " +i+ " - Aplica desconto? S/N:");
-		String descF = JOptionPane.showInputDialog("Item " +i+ " - Informe o percentual de desconto:");
-		
-		
-		String revFiltro = JOptionPane.showInputDialog("Deseja revisar os dados referente ao filtro de óleo do motor? S/N:");
-		
-		
-		/*Deseja incluir uma nova placa para gerar a ordem de serviço?*/
 		
 		
